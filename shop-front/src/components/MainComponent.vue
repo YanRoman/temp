@@ -13,6 +13,8 @@
     <SwiperSlide><img src="../assets/images/slide1.jpg" alt="slide1"/></SwiperSlide>
     <SwiperSlide><img src="../assets/images/slide2.jpg" alt="slide2"/></SwiperSlide>
   </Swiper>
+
+
 </template>
 
 <script setup>
