@@ -10,7 +10,7 @@ services:
     ports:
       - "5432:5432"
   app:
-    build: ./shop
+    build: ./
     container_name: app
     ports:
       - "8090:8090"
